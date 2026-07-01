@@ -1,0 +1,5 @@
+policy,l1hit,l2hit,totalaccess,totalhit,totalevictions,totalmiss,l1evictions,l2evictions,readhitl1,readmissl1,writehitl1,writemissl1,readhitl2,readmissl2,writehitl2,writemissl2
+LRU,35,9,50,44,0,6,0,0,23,9,12,6,9,0,0,6
+FIFO,34,10,50,44,0,6,0,0,22,10,12,6,10,0,0,6
+OPT,38,6,50,44,0,6,0,0,26,6,12,6,6,0,0,6
+LFU,37,7,50,44,0,6,0,0,25,7,12,6,7,0,0,6
